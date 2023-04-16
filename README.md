@@ -1,3 +1,5 @@
 ### ALL DDraceNetwork kog maps archives
-Unclassified maps
+classified maps and record_maps database
 ### irregularly updated
+
+Thanks for @XCWQW1 
